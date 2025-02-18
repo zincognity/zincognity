@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋, I'm Jesús or... Incognity?!</h2>
+<h2 align="left">Hi 👋, I'm Jesus or... Incognity?!</h2>
 
 ###
 
